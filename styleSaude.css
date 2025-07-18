@@ -4,7 +4,7 @@
 }
 
 body{
-    background-color: rgba(255, 227, 241, 0.712);
+    background-color: #ffffff;
     font-family: 'Times New Roman', Times, serif;
     text-align: center;
     font-size: 1.5rem;
@@ -16,10 +16,10 @@ nav {
     margin-bottom: 20px;
   }
   nav a {
-    background-color: rgb(184, 133, 164);
+    background-color: #004aad;
     text-decoration: none;
     color: white;
-    font-size: 1.2rem;
+    font-size: 1.5rem;
     margin: 5px;
     padding: 10px 16px;
     border-radius: 8px;
@@ -28,12 +28,12 @@ nav {
   }
   
   nav a:hover {
-    background-color: rgb(145, 98, 132);
+    background-color: #76acf3;
   }
 
 h1{
     text-decoration: none;
-    color: rgb(44, 36, 36);
+    color: black;
     font-size: 3.0rem;
 
     text-align: center;
@@ -43,7 +43,7 @@ h1{
 
 p{
    
-    color: rgb(63, 54, 54);
+    color: black;
     font-size: 1.5rem;
     margin-right: 10px;
     text-align: center;
@@ -68,7 +68,7 @@ main{
     margin-bottom: 30px;
 }
 footer p{
-    color: rgb(0, 0, 0);
+    color: black;
     font-size: 1.0rem;
     margin-right: 10px;
     display: inline-flex;
