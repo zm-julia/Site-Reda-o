@@ -9,7 +9,7 @@ body{
     text-align: center;
     font-size: 1.5rem;
     width: 390px;
-    height: 844px;
+    height: 810px;
 }
 
 nav {
@@ -49,6 +49,9 @@ p{
     text-align: center;
     font-family: unset;
     
+}
+.texto_corrido{
+  margin: 0 15px;
 }
 main
  img{

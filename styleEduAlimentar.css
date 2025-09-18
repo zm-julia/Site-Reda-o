@@ -40,6 +40,10 @@ h1{
     font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
     
 }
+.texto_corrido{
+
+  margin: 0 20px;
+}
 
 p{
    
@@ -50,6 +54,8 @@ p{
     font-family: unset;
     
 }
+
+
 main
  img{
     

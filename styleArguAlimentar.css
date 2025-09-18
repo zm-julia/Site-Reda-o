@@ -42,7 +42,7 @@ h1{
 h2{
     text-decoration: none;
     color: black;
-    font-size: 1.8rem;
+    font-size: 1.7rem;
     text-align: left;
     font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
 }
@@ -57,6 +57,11 @@ p{
     text-align: left;
     font-family: unset;
     
+}
+
+.texto_corrido{
+
+    margin: 0 20px;
 }
 footer p{
     color: black;

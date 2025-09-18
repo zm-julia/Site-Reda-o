@@ -4,8 +4,8 @@
 }
 
 body{
-    background-color:  rgb(82, 108, 255);
-    font-family: 'Times New Roman', Times, serif;
+    background-color:  rgb(184,  208, 253);
+    font-family: 'Times New Roma', Times, serif;
     text-align: center;
     font-size: 1.5rem;
     width: 390px;
@@ -16,9 +16,9 @@ nav {
     margin-bottom: 20px;
   }
   nav a {
-    background-color: rgb(241, 241, 241);
+    background-color: rgb(35, 65, 225);
     text-decoration: none;
-    color:rgb(139, 139, 139);
+    color: white;
     font-size: 1.5rem;
     margin: 5px;
     padding: 10px 16px;
@@ -42,14 +42,13 @@ h1{
 h2{
     text-decoration: none;
     color: black;
-    font-size: 1.8rem;
+    font-size: 1.7rem;
     text-align: left;
     font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
 
 }
 
 p{
-   
    
     color: black;
     line-height: 1.5rem;
@@ -59,6 +58,12 @@ p{
     font-family: unset;
     
 }
+
+.texto_corrido{
+    margin: 0 20px;
+}
+
+
 footer p{
     color: rgb(0, 0, 0);
     font-size: 1.0rem;

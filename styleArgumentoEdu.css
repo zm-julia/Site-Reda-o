@@ -42,15 +42,13 @@ h1{
 h2{
     text-decoration: none;
     color: rgb(44, 36, 36);
-    font-size: 1.8rem;
+    font-size: 1.7rem;
     text-align: left;
     font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
 
 }
 
 p{
-   
-   
     color: rgb(44, 36, 36);
     line-height: 1.5rem;
     font-size: 1.125rem;
@@ -58,6 +56,10 @@ p{
     text-align: left;
     font-family: unset;
     
+}
+
+.texto_corrido{
+    margin: 0 20px;
 }
 footer p{
     color: rgb(0, 0, 0);
